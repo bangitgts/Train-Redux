@@ -1,0 +1,23 @@
+{
+  "name": "train-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangitgts/Train-Redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bangitgts/Train-Redux/issues"
+  },
+  "homepage": "https://github.com/bangitgts/Train-Redux#readme",
+  "dependencies": {
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0"
+  }
+}
